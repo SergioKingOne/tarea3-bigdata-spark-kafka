@@ -1,0 +1,8 @@
+# Large archives
+*.tgz
+*.tar.gz
+*.zip
+*.tar
+
+# Kafka installation (if extracted)
+kafka_*/

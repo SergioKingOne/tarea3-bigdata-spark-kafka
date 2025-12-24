@@ -1,0 +1,21 @@
+# ============================================
+# TAREA 3 - Big Data - UNAD
+# Dependencias de Python
+# ============================================
+
+# Apache Spark
+pyspark>=3.5.0
+
+# Kafka
+kafka-python>=2.0.2
+
+# Visualizacion
+matplotlib>=3.8.0
+seaborn>=0.13.0
+
+# Manipulacion de datos
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Utilidades
+python-dateutil>=2.8.0
